@@ -6,6 +6,6 @@ You can use it to start building an app that needs 3 horizontally laid out panel
 
 For example, it could be the framework for the Timer in the Android Clock application.
 
-Here's what ti looks like:
+Here's what it looks like:
 
 ![three horizontal panels](https://raw.githubusercontent.com/mdoery/like-clock-ui-demo/master/like-clock-ui-demo.jpg)
